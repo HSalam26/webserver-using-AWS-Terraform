@@ -33,4 +33,5 @@ You must also have an AWS account and an IAM user with sufficient permissions to
 ## Conclusion
 This repository provides an easy and convenient way to create and manage an AWS instance running a webserver using Terraform. By following the instructions provided in this README, you can quickly create an AWS instance and deploy your website or web application.
 
-
+## Note
+You can check the Images folder to see how the interface should look like for every step
